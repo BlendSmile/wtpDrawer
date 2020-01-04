@@ -4,4 +4,4 @@
 
 A pixel art software that have the ability to draw with save system.
 
-Created in Visual Studio 2017/C# Windows Forms.
+Updated in Visual Studio 2017/C# Windows Forms.
