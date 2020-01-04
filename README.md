@@ -1,7 +1,7 @@
 # wtpDrawer
 
-Made to make faster the process of drawing the pixelart of the project ['Who is That Pixel?'](https://play.google.com/store/apps/details?id=com.rcacao.wtp).
 
 
+A pixel art software that have the ability to draw with save system.
 
-Created in Visual Studio 2008/C#.
+Created in Visual Studio 2017/C# Windows Forms.
